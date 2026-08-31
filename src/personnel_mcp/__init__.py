@@ -1,0 +1,2 @@
+"""Personnel analytics MCP server."""
+
